@@ -1,4 +1,5 @@
 ### Hi! I'm Rodolfo 👋
+[![Rodolfo's GitHub stats](https://github-readme-stats.vercel.app/api?username=rodolfofrainer)](https://github.com/anuraghazra/github-readme-stats)
 I'm an enthusiastic IT professional focusing on programming and network solutions, with a wealth of experience in roles that emphasise the importance of interpersonal communication, problem-solving and time management.
 I support open-sourceness and love seeing how difficult problems can be tackled and solved with an easy solution. (looking at you, leetcode solution tab 👀)
 
