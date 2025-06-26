@@ -2,35 +2,35 @@
 
 ![banner](/Rodolfo%20Frainer.png)
 
-I'm an enthusiastic IT professional focusing on programming and network solutions, with experience in roles that emphasise the importance of interpersonal communication, problem-solving and time management.
-I support open-sourceness and also enjoy learning about cyber security and how it impacts our life.
+I'm an enthusiastic IT professional passion for cybersecurity and network solutions, with experience in roles that emphasise the importance of interpersonal communication, problem-solving and time management.
+I’m a strong supporter of open-source and thrive on continuous learning about all topics that I'm involved.
 
 ## Some technologies I use
 
-- Python/Django
+- Python
 - Java
-- JavaScript
+- JavaScript/Typescript
 - HTML/CSS
 - Git
 - Docker 🐋
-- Wireshark
-- Nmap
+- Linux
+- Windows
 
 ## 🌱 I’m currently learning
 
-Currently I'm working on getting my IT certifications up to spec!
-
-At the moment I'm studying to take on the Comptia Security+ certificate
+I'm working on expanding my knowledge through roadmap.sh and scripting projects.
 
 ## 🕵️ I'm looking for
 
-Persuing my Comptia Pentest+ certificate.
+A great team to develop my knowledge with, always looking at problems objectively and aiming for simplicity and continuous learning.
 
 ## 🔭 I’m currently working on
 
-Owner of Comptia A+ and Comptia Network+ certificates, working on my Comptia Security+ cert.
+✅ CompTIA A+, Network+, and Security+ certified
 
-I'm also documenting my experience with [OverTheWire-BanditCTF](https://overthewire.org/wargames/bandit/), you can check my progress [here](https://github.com/rodolfofrainer/banditCTF), I'll keep going through/updating the process as much as possible.
+🐚 Enhancing my Bash scripting skills
+
+💻 Starting to explore PowerShell scripting
 
 ## 📫 How to reach me
 
